@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="_CGsjPJA_XqAIq3QBf4U">
-    <mxGraphModel dx="1083" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="3107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,6 +242,15 @@
         </mxCell>
         <mxCell id="C7TeEOZn1WMdrErDSkgs-68" value="Columnar Query Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="-600" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7TeEOZn1WMdrErDSkgs-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="156" y="-1280" width="144" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C7TeEOZn1WMdrErDSkgs-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="366" y="-1280" width="144" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="C7TeEOZn1WMdrErDSkgs-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-1280" width="144" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
